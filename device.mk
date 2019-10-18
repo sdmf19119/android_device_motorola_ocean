@@ -93,7 +93,8 @@ PRODUCT_COPY_FILES += \
 
 # init scripts
 PRODUCT_PACKAGES += \
-    init.qcom.rc
+    init.qcom.rc \
+    init.mmi.hab.sh
 
 # LineageActions
 PRODUCT_PACKAGES += \
